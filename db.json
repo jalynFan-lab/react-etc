@@ -1,0 +1,19 @@
+{
+  "superHeros": [
+    {
+      "id": 1,
+      "name": "spiderman",
+      "gender": "man"
+    },
+    {
+      "id": 2,
+      "name": "panpan",
+      "gender": "man"
+    },
+    {
+      "id": 3,
+      "name": "fanfan",
+      "gender": "woman"
+    }
+  ]
+}
